@@ -3,9 +3,11 @@ Efficient, parallelized data format-compatible analysis and valuation software f
 
 Written in Python3, FinSwift started as a quarantine boredom/passion project of mine. 
 One of my hobbies is Graham and Dodd-inspired fundamental financial analysis and value investing. It's often a rather meticulous process and involves hours upon hours of scrutinizing annual reports and financial statements by hand.
+
 After a few days too many of burning out my eyeballs by staring at balance sheets all day, I decided to figure out a way I could expedite and streamline the process by applying my knowledge of programming.
 
 In the end was born FinSwift, a program that supports valuation-based screening on individual stocks or lists of equities that are part of data files. 
+
 Instead of me having to use a clunky, freemium screener from somewhere online, I now had my own in-house software that could perform a rapid discounted cash flow valuation, assess solvency, and analyze price and assets without needing to bust open an Excel spreadsheet or a 10-K report.
 
 I picked Python3 as the language because:
@@ -18,5 +20,6 @@ Ultimately, FinSwift won the 2020 Grinspoon Entrepreneurial Concept Prize. Looki
 
 Credit:
 Ranaroussi for developing the original yfinance API
+
 Rodrigobercini for fixing and updating the yfinance API that is used in this project
 
