@@ -1,6 +1,7 @@
 # FinSwift
 Efficient, parallelized data format-compatible analysis and valuation software for equities in Python leveraging the yFinance API for recent stock data. 2020 Grinspoon Entrepreneurial Concept Prize winner. 
 
+
 Written in Python3, FinSwift started as a quarantine boredom/passion project of mine. 
 One of my hobbies is Graham and Dodd-inspired fundamental financial analysis and value investing. It's often a rather meticulous process and involves hours upon hours of scrutinizing annual reports and financial statements by hand.
 
